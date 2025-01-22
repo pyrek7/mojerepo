@@ -32,6 +32,10 @@ pipeline {
                     "TaskThree" : {
                         echo 'task three stuff part 1'
                         echo 'task three stuff part 2'
+                    },
+                     "TaskFour" : {
+                        echo 'task four stuff part 1'
+                        echo 'task four stuff part 2'
                     }
                     )
             }
